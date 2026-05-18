@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://bee-inspired-36ecbb88.zappy5.app
+https://example.com
 גלו כיצד בינה מלאכותית משנה את עולם העסקים. Bee Inspired מציעה פתרונות AI חדשניים שיהפכו את העסק שלכם לחכם, יעיל ומוביל בשוק. הצטרפו אלינו עוד היום!
 
 ### שירותים
-https://bee-inspired-36ecbb88.zappy5.app/services
+https://example.com/services
 מגוון שירותי בינה מלאכותית מותאמים אישית לעסק שלכם. מאוטומציה חכמה ועד ניתוח נתונים מתקדם — אנו מספקים את הכלים שיקפיצו אתכם קדימה. גלו את השירותים שלנו!
 
 ### אודות
-https://bee-inspired-36ecbb88.zappy5.app/about
+https://example.com/about
 הכירו את הצוות שמאחורי Bee Inspired — אנשי חזון שמאמינים בכוחה של בינה מלאכותית לשנות עסקים. הסיפור שלנו הוא ההוכחה שחדשנות אמיתית מתחילה בהשראה. גלו מי אנחנו!
 
 ### צור קשר
-https://bee-inspired-36ecbb88.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך את הרעיון שלכם למציאות עם AI? צרו קשר עם מומחי Bee Inspired עוד היום ונבנה יחד את הפתרון החכם שהעסק שלכם צריך. אנחנו כאן בשבילכם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://bee-inspired-36ecbb88.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://bee-inspired-36ecbb88.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://bee-inspired-36ecbb88.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://bee-inspired-36ecbb88.zappy5.app/contact
-- Endpoint: https://bee-inspired-36ecbb88.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ General Business
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://bee-inspired-36ecbb88.zappy5.app/sitemap.xml
-- Robots: https://bee-inspired-36ecbb88.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://bee-inspired-36ecbb88.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

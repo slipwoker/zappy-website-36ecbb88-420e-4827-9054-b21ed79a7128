@@ -2,13 +2,13 @@
 
 The user has an existing website on Site123 and wants to rebuild it as a new site based on the content and information already present on that site. The full brand identity, services, and business details are to be extracted from the provided URL.
 
-Source: https://bee-inspired-36ecbb88.zappy5.app
+Source: https://example.com
 
 ---
 
 ## Ai — Bee Inspired
 
-URL: https://bee-inspired-36ecbb88.zappy5.app
+URL: https://example.com
 Description: גלו כיצד בינה מלאכותית משנה את עולם העסקים. Bee Inspired מציעה פתרונות AI חדשניים שיהפכו את העסק שלכם לחכם, יעיל ומוביל בשוק. הצטרפו אלינו עוד היום!
 
 Ai — Bee Inspired
@@ -407,7 +407,7 @@ Bee Inspired נולדה מתוך אמונה עמוקה שעסקים יצירתי
 
 ## פתרונות AI שמשנים כללים — Bee Inspired
 
-URL: https://bee-inspired-36ecbb88.zappy5.app/services
+URL: https://example.com/services
 Description: מגוון שירותי בינה מלאכותית מותאמים אישית לעסק שלכם. מאוטומציה חכמה ועד ניתוח נתונים מתקדם — אנו מספקים את הכלים שיקפיצו אתכם קדימה. גלו את השירותים שלנו!
 
 פתרונות AI שמשנים כללים — Bee Inspired
@@ -900,7 +900,7 @@ Bee Inspired מציעה מגוון שירותים אסטרטגיים שתוכנ�
 
 ## החזון שמאחורי הבינה — Bee Inspired
 
-URL: https://bee-inspired-36ecbb88.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את הצוות שמאחורי Bee Inspired — אנשי חזון שמאמינים בכוחה של בינה מלאכותית לשנות עסקים. הסיפור שלנו הוא ההוכחה שחדשנות אמיתית מתחילה בהשראה. גלו מי אנחנו!
 
 החזון שמאחורי הבינה — Bee Inspired
@@ -1302,7 +1302,7 @@ Bee Inspired נולדה מתוך הצורך הזה. אנחנו משלבים אס
 
 ## דברו איתנו — השינוי מתחיל כאן — Bee Inspired
 
-URL: https://bee-inspired-36ecbb88.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכנים להפוך את הרעיון שלכם למציאות עם AI? צרו קשר עם מומחי Bee Inspired עוד היום ונבנה יחד את הפתרון החכם שהעסק שלכם צריך. אנחנו כאן בשבילכם!
 
 דברו איתנו — השינוי מתחיל כאן — Bee Inspired
@@ -1717,7 +1717,7 @@ Bee Inspired מציעה מגוון שירותים לבעלי עסקים יציר
 
 ## מדיניות פרטיות
 
-URL: https://bee-inspired-36ecbb88.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1918,7 +1918,7 @@ Bee Inspired ("החברה", "אנו", "שלנו") מחויבת להגן על פ�
 
 ## הצהרת נגישות
 
-URL: https://bee-inspired-36ecbb88.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2128,7 +2128,7 @@ Bee Inspired מחויבת להנגיש את השירותים לכלל הציבו
 
 ## תנאי שימוש
 
-URL: https://bee-inspired-36ecbb88.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
